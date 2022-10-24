@@ -1,13 +1,10 @@
 {
   "name": "test",
   "version": "0.0.0",
-  "engines": {
-    "node": "16.x"
-  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod",
+    "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
